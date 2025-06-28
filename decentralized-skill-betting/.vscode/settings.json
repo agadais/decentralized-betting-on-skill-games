@@ -1,4 +1,9 @@
-
 {
-    "deno.enable": true,
+    "files.associations": {
+        "*.clar": "clarity"
+    },
+    "editor.formatOnSave": true,
+    "editor.tabSize": 2,
+    "files.autoSave": "afterDelay",
+    "git.autofetch": true
 }
